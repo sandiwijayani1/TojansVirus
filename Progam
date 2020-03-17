@@ -1,0 +1,1 @@
+$pkg update &pkg upgrade $pkg install git $pkg install python2 $pkg install mechanize $pip2 install request $pkg git clone link
